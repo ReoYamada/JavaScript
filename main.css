@@ -1,0 +1,7 @@
+div {
+	display:flex;
+	width: 200px;
+}
+p {
+	flex: auto;
+}
